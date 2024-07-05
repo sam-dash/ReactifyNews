@@ -4,9 +4,10 @@
     gap: 12px;
 }
 
-.wrapper {
+.image {
     width: 64px;
     height: 64px;
+    object-fit: cover;
     background-color: #98cdfffb;
     background-position: center;
     flex-shrink: 0;
