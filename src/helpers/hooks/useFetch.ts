@@ -1,3 +1,4 @@
+//Заменила на query
 import { useEffect, useState } from "react";
 
 interface FetchFunction<P, T> {

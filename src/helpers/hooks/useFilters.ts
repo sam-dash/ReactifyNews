@@ -1,3 +1,4 @@
+//Заменила на redux 
 import { useState } from "react"
 import { IFilters } from "../../interfaces"
 
